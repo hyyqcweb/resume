@@ -17,7 +17,24 @@
         <th align="center"> <a href="//hyyqcweb.github.io/" >I Believe</a> </th>
         </tr>
     </thead>
-    <tbody></tbody>
+    <tbody>
+        <tr>
+        <th align="center"> <strong>性别</strong> </th>
+        <th align="center"> 男 </th>
+        <th align="center"> <strong>籍贯</strong> </th>
+        <th align="center"> 台州 </th>
+        <th align="center"> <strong>Tel</strong> </th>
+        <th align="center"> 1377768**** </th>
+        </tr>
+        <tr>
+        <th align="center"> <strong>E-mail</strong> </th> 
+        <th align="center"> 945845362@qq.com </th>
+        <th align="center"> <strong>QQ</strong> </th> 
+        <th align="center"> 945845362 </th>
+        <th align="center"> <strong>Github</strong> </th> 
+        <th align="center"><a href="//github.com/hyyqcweb" >github</a></th>
+        </tr> 
+    </tbody>
 </table>
 
 
