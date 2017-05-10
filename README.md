@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="css/style.css" />
 <h1>地标绍兴，喜欢骑行游更喜欢结交朋友，相交朋友的可以通过邮箱或者微博联系我，QQ、WeChat什么的欢迎滴滴我[嘿嘿]</h1>
 <p>以下为求职用的在线简历，有些简陋请多多谅解，如有技术交流请看上一段文字！</p></br>
 <h1>重要申明</h1>
@@ -73,6 +72,14 @@
 </li>
 <li>还有搭建github+hexo静态博客，纯属个人玩乐，技术含量低</li>
 </ul>
+<h1>专业技能</h1>
+<ol>
+<li>开发工具用过<strong>sublime text2、HBuilder、Dreamweaver</strong></li>
+<li>熟练掌握<strong>html/css</strong></li>
+<li>熟悉<strong>JavaScript、jquery</strong></li>
+<li>熟悉<strong>photoshop</strong><li>
+<li>熟悉<strong>运用bootstrap开发移动端页面</strong></li>
+</ol>
 
 
 
