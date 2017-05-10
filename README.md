@@ -79,6 +79,17 @@
 <li>熟悉<strong>运用bootstrap开发移动端页面</strong></li>
 <li>熟悉<strong>JavaScript、jquery</strong></li>
 <li>熟悉<strong>photoshop</strong></ul>
+<h1>证书与奖励</h1>
+<ul>
+<li>(团队)2016年绍兴市服务外包竞赛三等奖</li>
+<li>(个人)校三等奖学金<li>
+</ul>
+<h1>短板</h1>
+<p>英语能力较一般，英文的技术文档需要配合Google翻译或百度翻译才能完整阅读</p>
+<h1>个人评价</h1>
+<ol>
+<li>本人有极强的时间观念</li>
+</ol>
 
 
 
