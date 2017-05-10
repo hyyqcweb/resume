@@ -56,22 +56,22 @@
 <h1>项目经历</h1>
 <ul>
 <li>
-<strong>项目名称：</strong>软件技术招生页面
-<strong>项目周期：</strong>2016.10-2016.11
-<strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap
-<strong>项目描述：</strong>软件技术招生页面
+<strong>项目名称：</strong>软件技术招生页面<br>
+<strong>项目周期：</strong>2016.10-2016.11<br>
+<strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap<br>
+<strong>项目描述：</strong>软件技术招生页面<br>
 <strong>责任描述：负责项目中各页面的js交互和呈现。
 		 处理PC端/移动端的兼容。
 </li>
 <li>
-<strong>项目名称：</strong>移动应用开发招生页面
-<strong>项目周期：</strong>2017.3-20167.5
-<strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap
-<strong>项目描述：</strong>移动应用开发招生页面
+<strong>项目名称：</strong>移动应用开发招生页面<br>
+<strong>项目周期：</strong>2017.3-20167.5<br>
+<strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap<br>
+<strong>项目描述：</strong>移动应用开发招生页面<br>
 <strong>责任描述：负责项目中各页面的js交互和呈现。
 		 处理PC端/移动端的兼容。
 </li>
-还有搭建github+hexo静态博客，纯属个人玩乐，技术含量低
+<li>还有搭建github+hexo静态博客，纯属个人玩乐，技术含量低</li>
 </ul>
 
 
