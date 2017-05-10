@@ -73,13 +73,13 @@
 <li>还有搭建github+hexo静态博客，纯属个人玩乐，技术含量低</li>
 </ul>
 <h1>专业技能</h1>
-<ol>
+<ul>
 <li>开发工具用过<strong>sublime text2、HBuilder、Dreamweaver</strong></li>
 <li>熟练掌握<strong>html/css</strong></li>
 <li>熟悉<strong>JavaScript、jquery</strong></li>
 <li>熟悉<strong>photoshop</strong><li>
 <li>熟悉<strong>运用bootstrap开发移动端页面</strong></li>
-</ol>
+</ul>
 
 
 
