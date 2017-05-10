@@ -78,7 +78,7 @@
 <li>熟练掌握<strong>html/css</strong></li>
 <li>熟悉<strong>运用bootstrap开发移动端页面</strong></li>
 <li>熟悉<strong>JavaScript、jquery</strong></li>
-<li>熟悉<strong>photoshop</strong><li></ul>
+<li>熟悉<strong>photoshop</strong></ul>
 
 
 
