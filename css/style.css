@@ -1,0 +1,12 @@
+ul {
+	border-left: 8px solid #ddd;
+}
+
+img {
+	width: 24px;
+	height: 24px;
+}
+
+#list {
+	border-left: none;
+}
