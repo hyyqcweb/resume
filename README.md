@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title></title>
-		<style>
-			ul{
-				border-left: 8px solid #ddd;
-			}
-			img{
-				width: 24px;
-				height: 24px;
-			}
-			#list{
-				border-left: none;
-			}
-		</style>
-	</head>
-	<body>
 		<h1>地标绍兴，喜欢骑行游更喜欢结交朋友，相交朋友的可以通过邮箱或者微博联系我，
 			QQ、WeChat什么的欢迎滴滴我[嘿嘿]
 		</h1>
@@ -69,8 +50,7 @@
 			2015.9-2018.6 <img src="https://camo.githubusercontent.com/7f382416cd05fc9566d0803f0d56f9dc16159317/68747470733a2f2f6173736574732d63646e2e6769746875622e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663536342e706e67" alt="" />
 		</li>
 	</ul>
-	</body>
-</html>
+
 
 
 
