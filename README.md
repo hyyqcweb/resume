@@ -76,7 +76,7 @@
 <li>开发工具用过<strong>sublime text2、HBuilder、Dreamweaver</strong></li>
 <li>熟练掌握<strong>html/css</strong>(能实现快速布局)</li>
 <li>熟悉<strong>运用bootstrap开发移动端页面</strong>（曾多次用于开发）</li>
-<li>熟悉<strong>JavaScript、jquery</strong>（能用原生js快速写出轮播、选项卡等）</li>
+<li>熟悉<strong>JavaScript、jquery</strong>（能用原生js快速写出轮播、选项卡等一些常见的效果）</li>
 <li>熟悉<strong>photoshop</strong>（能实现最基本的切图，psd格式尽量还原布局）</ul>
 <h1>证书与奖励</h1>
 <ul>
