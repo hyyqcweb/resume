@@ -42,8 +42,7 @@
 <h1>教育背景</h1>
 <ul id="list">
 <li><strong>学校：浙江邮电职业技术学院        专业：软件专业      2015-9-2018.6</strong></li>
-<li><strong>主修课程：C语言程序设计、Photoshop平面设计、数据库设计（mysql）、网页设计（html+css+javascript）、java程序开发、php网站开发、android开发</strong></li>
-<li><strong>自学课程：JavaScript高级、jQuery基础、ajax交互、html5/css3、bootstrap基础、计算机网络技术基础</strong></li>	
+<li><strong>主修：HTML/CSS、JavaScript基础、PHP基础、JavaScript高级、jQuery基础、ajax交互、html5/css3、bootstrap基础、计算机网络技术基础</strong></li>
 </ul>
 <h1>校内工作/经历</h1>
 <ul>
@@ -75,10 +74,10 @@
 <h1>专业技能</h1>
 <ul>
 <li>开发工具用过<strong>sublime text2、HBuilder、Dreamweaver</strong></li>
-<li>熟练掌握<strong>html/css</strong></li>
-<li>熟悉<strong>运用bootstrap开发移动端页面</strong></li>
-<li>熟悉<strong>JavaScript、jquery</strong></li>
-<li>熟悉<strong>photoshop</strong></ul>
+<li>熟练掌握<strong>html/css</strong>(能实现快速布局)</li>
+<li>熟悉<strong>运用bootstrap开发移动端页面</strong>（曾多次用于开发）</li>
+<li>熟悉<strong>JavaScript、jquery</strong>（能用原生js快速写出轮播、选项卡等）</li>
+<li>熟悉<strong>photoshop</strong>（能实现最基本的切图，psd格式尽量还原布局）</ul>
 <h1>证书与奖励</h1>
 <ul>
 <li>(团队)2016年绍兴市服务外包竞赛三等奖</li>
