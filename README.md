@@ -15,6 +15,8 @@
 <th align="center">面议</th>
 <th align="center"><strong>应聘岗位</strong></th>
 <th align="center">web前端</th>
+<th align="center"><strong>博客</strong></th>
+<th align="center"><a href="//hyyqcweb.github.io/">I Believe</a></th>
 </tr>
 </thead>
 <tbody>
@@ -52,7 +54,7 @@
 <h1>项目经历</h1>
 <ul>
 <li>
-<strong>项目名称：</strong>软件技术招生页面<br>
+<strong>项目名称：</strong>软件技术招生页面 &nbsp;<a href="//hyyqcweb.github.io/soft/">demo</a><br>
 <strong>项目周期：</strong>2016.10-2016.11<br>
 <strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap<br>
 <strong>项目描述：</strong>软件技术招生页面<br>
@@ -60,7 +62,7 @@
 		 处理PC端/移动端的兼容。
 </li>
 <li>
-<strong>项目名称：</strong>移动应用开发招生页面<br>
+<strong>项目名称：</strong>移动应用开发招生页面 &nbsp;<a href="//hyyqcweb.github.io/MoveSoft/MoveSoft/index.html">demo</a> <br>
 <strong>项目周期：</strong>2017.3-20167.5<br>
 <strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap<br>
 <strong>项目描述：</strong>移动应用开发招生页面<br>
