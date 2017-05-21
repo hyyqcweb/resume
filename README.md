@@ -15,8 +15,8 @@
 <th align="center">面议</th>
 <th align="center"><strong>应聘岗位</strong></th>
 <th align="center">web前端</th>
-<th align="center"><strong>博客</strong></th>
-<th align="center"><a href="//hyyqcweb.github.io/">I Believe</a></th>
+<th align="center"><strong>项目</strong></th>
+<th align="center"><a href="//hyyqcweb.github.io/">demo</a></th>
 </tr>
 </thead>
 <tbody>
