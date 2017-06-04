@@ -42,7 +42,7 @@
 <h1>教育背景</h1>
 <ul id="list">
 <li><strong>学校：浙江邮电职业技术学院        专业：软件专业      2015-9-2018.6</strong></li>
-<li><strong>主修：HTML/CSS、JavaScript基础、PHP基础、JavaScript高级、jQuery基础、ajax交互、html5/css3、bootstrap基础、计算机网络技术基础</strong></li>
+<li><strong>主修：HTML/CSS、JavaScript基础、PHP基础、JavaScript高级、jQuery基础、ajax交互、html5/css3、bootstrap基础、计算机网络技术基础</strong>了解：Vue.js、amazeUI、gulp</li>
 </ul>
 <h1>校内工作/经历</h1>
 <ul>
