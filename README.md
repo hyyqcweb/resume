@@ -62,7 +62,7 @@
 		 处理PC端/移动端的兼容。
 </li>
 <li>
-<strong>项目名称：</strong>移动应用开发招生页面 &nbsp;<a href="//hyyqcweb.github.io/MoveSoft/MoveSoft/index.html">demo</a> <br>
+<strong>项目名称：</strong>移动应用开发招生页面 &nbsp;<a href="//hyyqcweb.github.io/MoveSoft/MoveSoft3.0/index.html">demo</a> <br>
 <strong>项目周期：</strong>2017.3-20167.5<br>
 <strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap<br>
 <strong>项目描述：</strong>移动应用开发招生页面<br>
