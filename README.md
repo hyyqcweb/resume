@@ -48,7 +48,7 @@
 <ul>
 <li>
 <strong>2016.10-至今       ACE工作室        前端开发</strong><br>
-<p>负责学校相关专业招生分页面制作，曾多次参与几个招生页面的策划制作工作，并担任其项目经理,详情请看项目经历</p>
+<p>负责学校相关专业招生页面制作，曾多次参与几个招生页面的策划制作工作，并担任其项目经理,详情请看项目经历</p>
 </li>
 </ul>
 <h1>项目经历</h1>
@@ -63,7 +63,7 @@
 </li>
 <li>
 <strong>项目名称：</strong>移动应用开发招生页面 &nbsp;<a href="//hyyqcweb.github.io/MoveSoft/Move_Soft/index.html">demo</a> <br>
-<strong>项目周期：</strong>2017.3-20167.5<br>
+<strong>项目周期：</strong>2017.3-2017.4<br>
 <strong>开发环境：</strong>HTML5+CSS3+JavaScript+jQuery+bootstrap<br>
 <strong>项目描述：</strong>移动应用开发招生页面<br>
 <strong>责任描述：</strong>负责项目中各页面的js交互和呈现。
