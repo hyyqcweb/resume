@@ -41,14 +41,14 @@
 <hr />
 <h1>教育背景</h1>
 <ul id="list">
-<li><strong>学校：浙江邮电职业技术学院        专业：软件专业      2015-9-2018.6</strong></li>
+<li><strong>学校：浙江邮电职业技术学院        专业：软件专业      2015.9-2018.6</strong></li>
 <li><strong>主修：HTML/CSS、JavaScript基础、PHP基础、JavaScript高级、jQuery基础、ajax交互、html5/css3、bootstrap基础、计算机网络技术基础</strong>    了解：<strong>Vue.js、amazeUI、gulp</strong></li>
 </ul>
 <h1>校内工作/经历</h1>
 <ul>
 <li>
 <strong>2016.10-至今       ACE工作室        前端开发</strong><br>
-<p>负责学校相关专业招生页面制作，曾多次参与几个招生页面的策划制作工作，并担任其项目经理,详情请看项目经历</p>
+<p>负责学校相关专业招生页面制作，曾多次参与几个招生页面的策划制作工作,详情请看项目经历</p>
 </li>
 </ul>
 <h1>项目经历</h1>
